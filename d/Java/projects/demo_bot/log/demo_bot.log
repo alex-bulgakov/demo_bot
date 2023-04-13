@@ -1,0 +1,4 @@
+2023-04-12 22:49:19,086 INFO com.bulgakov.demo_bot.DemoBotApplication [main] Starting DemoBotApplication using Java 20 on WIN-N4V4O4IQDB3 with PID 11252 (D:\Java\projects\demo_bot\target\classes started by user in D:\Java\projects\demo_bot)
+2023-04-12 22:49:19,088 INFO com.bulgakov.demo_bot.DemoBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-04-12 22:49:20,391 INFO com.bulgakov.demo_bot.DemoBotApplication [main] Started DemoBotApplication in 1.602 seconds (JVM running for 2.047)
+2023-04-12 22:49:26,596 INFO com.bulgakov.demo_bot.service.TelegramBot [abulgakov_bot Telegram Executor] Start bot for user Александр
